@@ -72,6 +72,7 @@ body {
   table-layout: fixed;
   border-spacing: 1rem;
   text-align: right;
+  box-shadow: 10px 5px 5px #274247;
 }
 
 #result thead {
