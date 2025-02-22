@@ -9,7 +9,7 @@ body {
   font-family: 'Quicksand', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: radial-gradient(#303b37, #1a1f1d);
+  background: radial-gradient(#626243, #274247);
   color: #e1eeeb;
   min-height: 100vh;
 }
@@ -37,6 +37,7 @@ body {
   margin: 2rem auto;
   border-radius: 4px;
   background: linear-gradient(180deg, #307e6c, #2b996d);
+  box-shadow: 10px 15px 5px #274247;
 }
 
 .input-group {
