@@ -1,4 +1,5 @@
 export default function UserInput({ onChange, userInput }) {
+  // interactive value change when typing an amount
   return (
     <section id="user-input">
       <div className="input-group">
