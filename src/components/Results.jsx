@@ -1,6 +1,6 @@
 import { calculateInvestmentResults, formatter } from '../util/investment.js';
 
-
+// component that will show the results for the inputs
 export default function Results({ input }) {
   const results = [];
   calculateInvestmentResults(input, results);
