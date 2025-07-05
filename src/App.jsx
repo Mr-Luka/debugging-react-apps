@@ -12,6 +12,7 @@ function App() {
     duration: 10,
   });
 
+  // function that will handle the change in user input field
   function handleChange(inputIdentifier, newValue) {
     setUserInput((prevUserInput) => {
       return {
