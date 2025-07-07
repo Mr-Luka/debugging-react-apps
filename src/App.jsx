@@ -5,6 +5,7 @@ import UserInput from './components/UserInput.jsx';
 import Results from './components/Results.jsx';
 
 function App() {
+  // state that will store all our initial and inputed numbers
   const [userInput, setUserInput] = useState({
     initialInvestment: 10000,
     annualInvestment: 1200,
