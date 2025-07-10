@@ -1,5 +1,5 @@
 import logo from '../assets/investment-calculator-logo.png';
-
+// logo image with app name
 export default function Header() {
   return (
     <header id="header">
