@@ -23,6 +23,7 @@ function App() {
     });
   }
 
+  // when user inputs the numbers the result changes automatically 
   return (
     <>
       <Header />
